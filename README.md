@@ -12,7 +12,7 @@ To launch the console application:
 
 ## Description of the project
 
-*The AirBnB clone project aims to create a replica of the Airbnb website and functionality. It will consist of:*
+*The AirBnB clone project aims to create a replica of the Airbnb website and functionality. It will consist of :*
 
 - **A custom command-line interface that allows manipulating data without a visual interface, like a shell. This will be used for development and debugging.**
 
