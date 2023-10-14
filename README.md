@@ -12,15 +12,15 @@ To launch the console application:
 
 ## Description of the project
 
-The AirBnB clone project aims to create a replica of the Airbnb website and functionality. It will consist of:
+*The AirBnB clone project aims to create a replica of the Airbnb website and functionality. It will consist of:*
 
-- ```A custom command-line interface that allows manipulating data without a visual interface, like a shell. This will be used for development and debugging.```
+- **A custom command-line interface that allows manipulating data without a visual interface, like a shell. This will be used for development and debugging.**
 
-- ```A front-end website with both static and dynamic functionality.```
+- **A front-end website with both static and dynamic functionality.**
 
-- ```A comprehensive database to manage backend functions like storing data.```
+- **A comprehensive database to manage backend functions like storing data.**
 
-- ```An API that facilitates communication between the front-end website and backend database and logic.```
+- **An API that facilitates communication between the front-end website and backend database and logic.**
 
 `The final product will be a full web application with a front-end website interfacing with a robust back-end through a custom API. The back-end will include a command interpreter for debugging and a database. The goal is to replicate core Airbnb functionality like user accounts, listing rentals, reviews, payments etc.`
 
