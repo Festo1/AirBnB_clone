@@ -22,7 +22,7 @@ To launch the console application:
 
 - **An API that facilitates communication between the front-end website and backend database and logic.**
 
-`The final product will be a full web application with a front-end website interfacing with a robust back-end through a custom API. The back-end will include a command interpreter for debugging and a database. The goal is to replicate core Airbnb functionality like user accounts, listing rentals, reviews, payments etc.`
+** *The final product will be a full web application with a front-end website interfacing with a robust back-end through a custom API. The back-end will include a command interpreter for debugging and a database. The goal is to replicate core Airbnb functionality like user accounts, listing rentals, reviews, payments etc.* ** 
 
 ## Aims & Objectives of this project
 Once launched, you can use commands like:
