@@ -14,6 +14,7 @@ from time import sleep
 from models.amenity import Amenity
 
 
+# Define a test class for testing the instantiation of the Amenity class
 class TestAmenity_instantiation(unittest.TestCase):
     """Unittests for testing instantiation of the Amenity class."""
 
@@ -85,6 +86,7 @@ class TestAmenity_instantiation(unittest.TestCase):
             Amenity(id=None, created_at=None, updated_at=None)
 
 
+# Define a test class for testing the save method of the Amenity class
 class TestAmenity_save(unittest.TestCase):
     """Unittests for testing save method of the Amenity class."""
 
@@ -136,6 +138,7 @@ class TestAmenity_save(unittest.TestCase):
             self.assertIn(amid, f.read())
 
 
+# Define a test class for testing the to_dict method of the Amenity class
 class TestAmenity_to_dict(unittest.TestCase):
     """Unittests for testing to_dict method of the Amenity class."""
 
