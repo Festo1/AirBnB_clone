@@ -1,6 +1,6 @@
 # AirBnB Clone - The Console
 
-This is a clone of the AirBnB website, implementing a custom command-line interface for managing objects like users, places, amenities, and reviews. 
+This is a **clone of the AirBnB website**, implementing a custom command-line interface for managing objects like users, places, amenities, and reviews. 
 
 ## Getting Started
 
