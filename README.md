@@ -45,8 +45,7 @@ Once launched, you can use commands like:
 - Review
 - Place
 
-### Further Resources
-* ```Videos showing examples of how various parts of the project work, listed below:```
+### Further Resources:
 * [HBNB videos](https://www.youtube.com/playlist?list=PLlLHfkTcnvmPOp6jv_89tRpJUMFrP-Wbi)
 * [Holberton Airbnb overview](https://www.youtube.com/watch?v=QTwmCB_AWqI)
 * [The Airbnb Console](https://www.youtube.com/watch?v=jeJwRB33YNg)
